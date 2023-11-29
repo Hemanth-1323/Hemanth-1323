@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6b21MYe3VUnX0cxjTRqYc_wyeI6-Ur0xfA&usqp=CAU)](https://www.linkedin.com/in/hemanth-d-908993267/)
+[![MasterHead](https://gist.githubusercontent.com/lostgirljourney/e79e525737db484da10dc66588efcb05/raw/2fd5a50f3eca964f6e6bec28ea32f3ffb8914462/hello.gif)](https://www.linkedin.com/in/hemanth-d-908993267/)
 <h1 align="center">Hi 👋, I'm Hemanth.D</h1>
 <h3 align="center">A passionate Software Engineer & Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
